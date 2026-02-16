@@ -1,0 +1,162 @@
+[
+    {
+        "particulars": "LOCAL SOURCES",
+        "income_target_budget_appropriation": "22,187,180,759.00",
+        "general_fund": "8,329,548,584.25",
+        "sef": "2,059,588,920.36",
+        "total": "10,389,137,504.61",
+        "percent_to_total_income": "88.44%"
+    },
+    {
+        "particulars": "TAX REVENUE",
+        "income_target_budget_appropriation": "19,570,705,346.00",
+        "general_fund": "7,614,996,750.39",
+        "sef": "2,057,724,486.12",
+        "total": "9,672,721,236.51",
+        "percent_to_total_income": "82.34%"
+    },
+    {
+        "particulars": "Real Property Tax",
+        "income_target_budget_appropriation": "12,127,385,346.00",
+        "general_fund": "2,586,143,808.87",
+        "sef": "2,057,724,486.12",
+        "total": "4,643,868,294.99",
+        "percent_to_total_income": "39.53%"
+    },
+    {
+        "particulars": "Tax on Business",
+        "income_target_budget_appropriation": "6,838,720,000.00",
+        "general_fund": "4,771,005,613.07",
+        "sef": "0.00",
+        "total": "4,771,005,613.07",
+        "percent_to_total_income": "40.62%"
+    },
+    {
+        "particulars": "Other Taxes",
+        "income_target_budget_appropriation": "604,600,000.00",
+        "general_fund": "257,847,328.45",
+        "sef": "0.00",
+        "total": "257,847,328.45",
+        "percent_to_total_income": "2.20%"
+    },
+    {
+        "particulars": "NON-TAX REVENUE",
+        "income_target_budget_appropriation": "2,616,475,413.00",
+        "general_fund": "714,551,833.86",
+        "sef": "1,864,434.24",
+        "total": "716,416,268.10",
+        "percent_to_total_income": "6.10%"
+    },
+    {
+        "particulars": "Regulatory Fees (Permits and Licenses)",
+        "income_target_budget_appropriation": "1,209,373,720.00",
+        "general_fund": "370,379,452.22",
+        "sef": "0.00",
+        "total": "370,379,452.22",
+        "percent_to_total_income": "3.15%"
+    },
+    {
+        "particulars": "Service/User Charges (Service Income)",
+        "income_target_budget_appropriation": "1,402,888,457.00",
+        "general_fund": "330,836,085.31",
+        "sef": "0.00",
+        "total": "330,836,085.31",
+        "percent_to_total_income": "2.82%"
+    },
+    {
+        "particulars": "Receipts from Economic Enterprises (Business Income)",
+        "income_target_budget_appropriation": "0.00",
+        "general_fund": "0.00",
+        "sef": "0.00",
+        "total": "0.00",
+        "percent_to_total_income": "0.00%"
+    },
+    {
+        "particulars": "Other Receipts (Other General Income)",
+        "income_target_budget_appropriation": "4,213,236.00",
+        "general_fund": "13,336,296.33",
+        "sef": "1,864,434.24",
+        "total": "15,200,730.57",
+        "percent_to_total_income": "0.13%"
+    },
+    {
+        "particulars": "EXTERNAL SOURCES",
+        "income_target_budget_appropriation": "5,347,131,485.00",
+        "general_fund": "1,357,782,873.00",
+        "sef": "0.00",
+        "total": "1,357,782,873.00",
+        "percent_to_total_income": "11.56%"
+    },
+    {
+        "particulars": "National Tax Allotment",
+        "income_target_budget_appropriation": "5,347,131,485.00",
+        "general_fund": "1,336,782,873.00",
+        "sef": "0.00",
+        "total": "1,336,782,873.00",
+        "percent_to_total_income": "11.38%"
+    },
+    {
+        "particulars": "Other Shares from National Tax Collections",
+        "income_target_budget_appropriation": "0.00",
+        "general_fund": "21,000,000.00",
+        "sef": "0.00",
+        "total": "21,000,000.00",
+        "percent_to_total_income": "0.18%"
+    },
+    {
+        "particulars": "Inter-Local Transfers",
+        "income_target_budget_appropriation": "0.00",
+        "general_fund": "0.00",
+        "sef": "0.00",
+        "total": "0.00",
+        "percent_to_total_income": "0.00%"
+    },
+    {
+        "particulars": "Extraordinary Receipts/Grants/Donations/Aids",
+        "income_target_budget_appropriation": "0.00",
+        "general_fund": "0.00",
+        "sef": "0.00",
+        "total": "0.00",
+        "percent_to_total_income": "0.00%"
+    },
+    {
+        "particulars": "TOTAL CURRENT OPERATING INCOME",
+        "income_target_budget_appropriation": "27,534,312,244.00",
+        "general_fund": "9,687,331,457.25",
+        "sef": "2,059,588,920.36",
+        "total": "11,746,920,377.61",
+        "percent_to_total_income": "100.00%"
+    },
+    {
+        "particulars": "ADD: SUPPLEMENTAL BUDGET (UNAPPROPRIATED SURPLUS) FOR CURRENT OPERATING EXPENDITURES",
+        "income_target_budget_appropriation": "0.00",
+        "general_fund": "0.00",
+        "sef": "0.00",
+        "total": "0.00",
+        "percent_to_total_income": null
+    },
+    {
+        "particulars": "TOTAL AVAILABLE FOR CURRENT OPERATING EXPENDITURES",
+        "income_target_budget_appropriation": "27,534,312,244.00",
+        "general_fund": "9,687,331,457.25",
+        "sef": "2,059,588,920.36",
+        "total": "11,746,920,377.61",
+        "percent_to_total_income": "100.00%"
+    },
+    {
+        "particulars": "LESS: CURRENT OPERATING EXPENDITURES (PS + MOOE + FE)",
+        "income_target_budget_appropriation": "0.00",
+        "general_fund": null,
+        "sef": null,
+        "total": null,
+        "percent_to_total_income": null
+    },
+    {
+        "particulars": "General Public Services",
+        "income_target_budget_appropriation": "7,094,737,857.00",
+        "general_fund": "1,051,300,660.74",
+        "sef": "0.00",
+        "total": "1,051,300,660.74",
+        "percent_to_total_income": "41.93%"
+    }
+]

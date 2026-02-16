@@ -1,0 +1,941 @@
+{
+    "city": "SANTA CLARA",
+    "quarter": "Q1",
+    "symbol": "AMD",
+    "endDate": "2025-06-29",
+    "year": 2025,
+    "data": {
+        "cf": [
+            {
+                "value": 4190000000,
+                "unit": "USD",
+                "info": "Cash and cash equivalents",
+                "label": "For the entity and the disposal group, cash inc... For the entity and the disposal group, cash inc...",
+                "concept": "CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations"
+            },
+            {
+                "value": 0,
+                "unit": "USD",
+                "info": "Inventory loss at contract manufacturer",
+                "label": "Amount of loss from reductions in inventory due... Amount of loss from reductions in inventory due... Amount of loss from reductions in inventory due...",
+                "concept": "InventoryWriteDown"
+            },
+            {
+                "value": 212000000,
+                "unit": "USD",
+                "info": "Purchases of property and equipment",
+                "label": "The cash outflow associated with the acquisitio... The cash outflow associated with the acquisitio... The cash outflow associated with the acquisitio...",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment"
+            },
+            {
+                "value": 433000000,
+                "unit": "USD",
+                "info": "Purchases of short-term investments",
+                "label": "The cash outflow for securities or other assets... The cash outflow for securities or other assets... The cash outflow for securities or other assets...",
+                "concept": "PaymentsToAcquireShortTermInvestments"
+            },
+            {
+                "value": 1494000000,
+                "unit": "USD",
+                "info": "Proceeds from long-term debt issuance, net of i...",
+                "label": "The cash inflow from a debt initially having ma... The cash inflow from a debt initially having ma... The cash inflow from a debt initially having ma...",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt"
+            },
+            {
+                "value": 567000000,
+                "unit": "USD",
+                "info": "Amortization of acquisition-related intangibles",
+                "label": "The aggregate expense charged against earnings ... The aggregate expense charged against earnings ... The aggregate expense charged against earnings ...",
+                "concept": "AmortizationOfIntangibleAssets"
+            },
+            {
+                "value": 175000000,
+                "unit": "USD",
+                "info": "Accrued and other liabilities",
+                "label": "Amount of increase (decrease) in accrued expens... Amount of increase (decrease) in accrued expens... Amount of increase (decrease) in accrued expens...",
+                "concept": "IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities"
+            },
+            {
+                "value": 65000000,
+                "unit": "USD",
+                "info": "Inventory loss at contract manufacturer",
+                "label": "Amount of loss from reductions in inventory due... Amount of loss from reductions in inventory due... Amount of loss from reductions in inventory due...",
+                "concept": "InventoryWriteDown"
+            },
+            {
+                "value": -129000000,
+                "unit": "USD",
+                "info": "Net cash provided by (used in) financing activi...",
+                "label": "Amount of cash inflow (outflow) from financing ... Amount of cash inflow (outflow) from financing ... Amount of cash inflow (outflow) from financing ...",
+                "concept": "NetCashProvidedByUsedInFinancingActivities"
+            },
+            {
+                "value": 162000000,
+                "unit": "USD",
+                "info": "Depreciation and amortization",
+                "label": "Amount of expense charged against earnings to a... Amount of expense charged against earnings to a...",
+                "concept": "OtherDepreciationAndAmortization"
+            },
+            {
+                "value": 749000000,
+                "unit": "USD",
+                "info": "Repurchases of common stock",
+                "label": "The cash outflow to reacquire common stock duri... The cash outflow to reacquire common stock duri... The cash outflow to reacquire common stock duri...",
+                "concept": "PaymentsForRepurchaseOfCommonStock"
+            },
+            {
+                "value": 239000000,
+                "unit": "USD",
+                "info": "Payments to Acquire Other Investments",
+                "label": "Amount of cash outflow to acquire investments c... Amount of cash outflow to acquire investments c... Amount of cash outflow to acquire investments c...",
+                "concept": "PaymentsToAcquireOtherInvestments"
+            },
+            {
+                "value": 257000000,
+                "unit": "USD",
+                "info": "Net increase in cash, cash equivalents and rest...",
+                "label": "Amount of increase (decrease) in cash, cash equ... Amount of increase (decrease) in cash and cash ... Amount of increase (decrease) in cash, cash equ...",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect"
+            },
+            {
+                "value": 65000000,
+                "unit": "USD",
+                "info": "Inventory loss at contract manufacturer",
+                "label": "Amount of loss from reductions in inventory due... Amount of loss from reductions in inventory due... Amount of loss from reductions in inventory due...",
+                "concept": "InventoryWriteDown"
+            },
+            {
+                "value": 521000000,
+                "unit": "USD",
+                "info": "Net cash provided by operating activities",
+                "label": "Amount of cash inflow (outflow) from operating ... Amount of cash inflow (outflow) from operating ... Amount of cash inflow (outflow) from operating ...",
+                "concept": "NetCashProvidedByUsedInOperatingActivities"
+            },
+            {
+                "value": 0,
+                "unit": "USD",
+                "info": "Proceeds from commercial paper issuance, net of...",
+                "label": "The cash inflow from borrowing by issuing comme... The cash inflow from borrowing by issuing comme...",
+                "concept": "ProceedsFromIssuanceOfCommercialPaper"
+            },
+            {
+                "value": 0,
+                "unit": "USD",
+                "info": "Proceeds from long-term debt issuance, net of i...",
+                "label": "The cash inflow from a debt initially having ma... The cash inflow from a debt initially having ma... The cash inflow from a debt initially having ma...",
+                "concept": "ProceedsFromIssuanceOfLongTermDebt"
+            },
+            {
+                "value": 365000000,
+                "unit": "USD",
+                "info": "Proceeds from maturity of short-term investments",
+                "label": "The cash inflow from maturities, prepayments, c... The cash inflow from maturities, prepayments, c... The cash inflow from maturities, prepayments, c...",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfShorttermInvestments"
+            },
+            {
+                "value": 33000000,
+                "unit": "USD",
+                "info": "Proceeds from sale of short-term investments",
+                "label": "The cash inflow from sales of all investments, ... The cash inflow from sales of all investments, ... The cash inflow from sales of all investments, ...",
+                "concept": "ProceedsFromSaleOfShortTermInvestments"
+            },
+            {
+                "value": 0,
+                "unit": "USD",
+                "info": "Restricted cash included in Prepaid expenses an...",
+                "label": "Amount of cash restricted as to withdrawal or u... Amount of cash restricted as to withdrawal or u... Amount of cash restricted as to withdrawal or u... Amount of cash restricted as to withdrawal or u...",
+                "concept": "RestrictedCash"
+            },
+            {
+                "value": 364000000,
+                "unit": "USD",
+                "info": "Stock-based compensation",
+                "label": "Amount of noncash expense for share-based payme... Amount of noncash expense for share-based payme... Amount of noncash expense for share-based payme...",
+                "concept": "ShareBasedCompensation"
+            },
+            {
+                "value": -289000000,
+                "unit": "USD",
+                "info": "Accounts payable",
+                "label": "The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe...",
+                "concept": "IncreaseDecreaseInAccountsPayable"
+            },
+            {
+                "value": -135000000,
+                "unit": "USD",
+                "info": "Net cash used in investing activities",
+                "label": "Amount of cash inflow (outflow) from investing ... Amount of cash inflow (outflow) from investing ... Amount of cash inflow (outflow) from investing ...",
+                "concept": "NetCashProvidedByUsedInInvestingActivities"
+            },
+            {
+                "value": -357000000,
+                "unit": "USD",
+                "info": "Net cash used in investing activities",
+                "label": "Amount of cash inflow (outflow) from investing ... Amount of cash inflow (outflow) from investing ... Amount of cash inflow (outflow) from investing ...",
+                "concept": "NetCashProvidedByUsedInInvestingActivities"
+            },
+            {
+                "value": 939000000,
+                "unit": "USD",
+                "info": "Net cash provided by operating activities",
+                "label": "Amount of cash inflow (outflow) from operating ... Amount of cash inflow (outflow) from operating ... Amount of cash inflow (outflow) from operating ...",
+                "concept": "NetCashProvidedByUsedInOperatingActivities"
+            },
+            {
+                "value": 175000000,
+                "unit": "USD",
+                "info": "Depreciation and amortization",
+                "label": "Amount of expense charged against earnings to a... Amount of expense charged against earnings to a...",
+                "concept": "OtherDepreciationAndAmortization"
+            },
+            {
+                "value": -4000000,
+                "unit": "USD",
+                "info": "Other",
+                "label": "Amount of income (expense) included in net inco... Amount of income (expense) included in net inco... Amount of income (expense) included in net inco...",
+                "concept": "OtherNoncashIncomeExpense"
+            },
+            {
+                "value": 5000000,
+                "unit": "USD",
+                "info": "Proceeds from sales of common stock through emp...",
+                "label": "Amount of cash inflow from issuance of shares u... Amount of cash inflow from issuance of shares u... Amount of cash inflow from issuance of shares u...",
+                "concept": "ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions"
+            },
+            {
+                "value": 441000000,
+                "unit": "USD",
+                "info": "Proceeds from maturity of short-term investments",
+                "label": "The cash inflow from maturities, prepayments, c... The cash inflow from maturities, prepayments, c... The cash inflow from maturities, prepayments, c...",
+                "concept": "ProceedsFromMaturitiesPrepaymentsAndCallsOfShorttermInvestments"
+            },
+            {
+                "value": -1000000,
+                "unit": "USD",
+                "info": "Other",
+                "label": "Amount of cash inflow (outflow) from financing ... Amount of cash inflow (outflow) from financing ... Amount of cash inflow (outflow) from financing ...",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities"
+            },
+            {
+                "value": 0,
+                "unit": "USD",
+                "info": "Other",
+                "label": "Amount of cash inflow (outflow) from financing ... Amount of cash inflow (outflow) from financing ... Amount of cash inflow (outflow) from financing ...",
+                "concept": "ProceedsFromPaymentsForOtherFinancingActivities"
+            },
+            {
+                "value": 10000000,
+                "unit": "USD",
+                "info": "Restricted cash included in Prepaid expenses an...",
+                "label": "Amount of cash restricted as to withdrawal or u... Amount of cash restricted as to withdrawal or u... Amount of cash restricted as to withdrawal or u... Amount of cash restricted as to withdrawal or u...",
+                "concept": "RestrictedCash"
+            },
+            {
+                "value": 622000000,
+                "unit": "USD",
+                "info": "Amortization of acquisition-related intangibles",
+                "label": "The aggregate expense charged against earnings ... The aggregate expense charged against earnings ... The aggregate expense charged against earnings ...",
+                "concept": "AmortizationOfIntangibleAssets"
+            },
+            {
+                "value": -167000000,
+                "unit": "USD",
+                "info": "Deferred income taxes",
+                "label": "Amount of deferred income tax expense (benefit)... Amount of deferred income tax expense (benefit)... Amount of deferred income tax expense (benefit)...",
+                "concept": "DeferredIncomeTaxesAndTaxCredits"
+            },
+            {
+                "value": 128000000,
+                "unit": "USD",
+                "info": "Income taxes, net of refunds",
+                "label": "The amount of cash paid during the current peri... Amount, after refund, of cash paid to foreign, ... Amount, after refund, of cash paid to foreign, ...",
+                "concept": "IncomeTaxesPaidNet"
+            },
+            {
+                "value": -39000000,
+                "unit": "USD",
+                "info": "Other",
+                "label": "Amount of income (expense) included in net inco... Amount of income (expense) included in net inco... Amount of income (expense) included in net inco...",
+                "concept": "OtherNoncashIncomeExpense"
+            },
+            {
+                "value": 4000000,
+                "unit": "USD",
+                "info": "Payments to Acquire Other Investments",
+                "label": "Amount of cash outflow to acquire investments c... Amount of cash outflow to acquire investments c... Amount of cash outflow to acquire investments c...",
+                "concept": "PaymentsToAcquireOtherInvestments"
+            },
+            {
+                "value": 567000000,
+                "unit": "USD",
+                "info": "Amortization of acquisition-related intangibles",
+                "label": "The aggregate expense charged against earnings ... The aggregate expense charged against earnings ... The aggregate expense charged against earnings ...",
+                "concept": "AmortizationOfIntangibleAssets"
+            },
+            {
+                "value": 147000000,
+                "unit": "USD",
+                "info": "Purchases of property and equipment, accrued bu...",
+                "label": "Future cash outflow to pay for purchases of fix... Future cash outflow to pay for purchases of fix... Future cash outflow to pay for purchases of fix...",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid"
+            },
+            {
+                "value": 6049000000,
+                "unit": "USD",
+                "info": "Cash and cash equivalents",
+                "label": "For the entity and the disposal group, cash inc... For the entity and the disposal group, cash inc...",
+                "concept": "CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations"
+            },
+            {
+                "value": 2248000000,
+                "unit": "USD",
+                "info": "Net increase in cash, cash equivalents and rest...",
+                "label": "Amount of increase (decrease) in cash, cash equ... Amount of increase (decrease) in cash and cash ... Amount of increase (decrease) in cash, cash equ...",
+                "concept": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect"
+            },
+            {
+                "value": -66000000,
+                "unit": "USD",
+                "info": "Deferred income taxes",
+                "label": "Amount of deferred income tax expense (benefit)... Amount of deferred income tax expense (benefit)... Amount of deferred income tax expense (benefit)...",
+                "concept": "DeferredIncomeTaxesAndTaxCredits"
+            },
+            {
+                "value": -913000000,
+                "unit": "USD",
+                "info": "Accounts receivable, net",
+                "label": "The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe...",
+                "concept": "IncreaseDecreaseInAccountsReceivable"
+            },
+            {
+                "value": -288000000,
+                "unit": "USD",
+                "info": "Accrued and other liabilities",
+                "label": "Amount of increase (decrease) in accrued expens... Amount of increase (decrease) in accrued expens... Amount of increase (decrease) in accrued expens...",
+                "concept": "IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities"
+            },
+            {
+                "value": 368000000,
+                "unit": "USD",
+                "info": "Inventories",
+                "label": "The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe...",
+                "concept": "IncreaseDecreaseInInventories"
+            },
+            {
+                "value": 919000000,
+                "unit": "USD",
+                "info": "Prepaid expenses and current assets",
+                "label": "Amount of increase (decrease) in prepaid expens... Amount of increase (decrease) in prepaid expens... Amount of increase (decrease) in prepaid expens...",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets"
+            },
+            {
+                "value": 1666000000,
+                "unit": "USD",
+                "info": "Net cash provided by (used in) financing activi...",
+                "label": "Amount of cash inflow (outflow) from financing ... Amount of cash inflow (outflow) from financing ... Amount of cash inflow (outflow) from financing ...",
+                "concept": "NetCashProvidedByUsedInFinancingActivities"
+            },
+            {
+                "value": 4000000,
+                "unit": "USD",
+                "info": "Repurchases of common stock",
+                "label": "The cash outflow to reacquire common stock duri... The cash outflow to reacquire common stock duri... The cash outflow to reacquire common stock duri...",
+                "concept": "PaymentsForRepurchaseOfCommonStock"
+            },
+            {
+                "value": 947000000,
+                "unit": "USD",
+                "info": "Proceeds from commercial paper issuance, net of...",
+                "label": "The cash inflow from borrowing by issuing comme... The cash inflow from borrowing by issuing comme...",
+                "concept": "ProceedsFromIssuanceOfCommercialPaper"
+            },
+            {
+                "value": 4000000,
+                "unit": "USD",
+                "info": "Proceeds from sales of common stock through emp...",
+                "label": "Amount of cash inflow from issuance of shares u... Amount of cash inflow from issuance of shares u... Amount of cash inflow from issuance of shares u...",
+                "concept": "ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlansIncludingStockOptions"
+            },
+            {
+                "value": 622000000,
+                "unit": "USD",
+                "info": "Amortization of acquisition-related intangibles",
+                "label": "The aggregate expense charged against earnings ... The aggregate expense charged against earnings ... The aggregate expense charged against earnings ...",
+                "concept": "AmortizationOfIntangibleAssets"
+            },
+            {
+                "value": -561000000,
+                "unit": "USD",
+                "info": "Accounts payable",
+                "label": "The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe...",
+                "concept": "IncreaseDecreaseInAccountsPayable"
+            },
+            {
+                "value": -748000000,
+                "unit": "USD",
+                "info": "Accounts receivable, net",
+                "label": "The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe...",
+                "concept": "IncreaseDecreaseInAccountsReceivable"
+            },
+            {
+                "value": 682000000,
+                "unit": "USD",
+                "info": "Inventories",
+                "label": "The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe... The increase (decrease) during the reporting pe...",
+                "concept": "IncreaseDecreaseInInventories"
+            },
+            {
+                "value": 800000000,
+                "unit": "USD",
+                "info": "Inventory loss at contract manufacturer",
+                "label": "Amount of loss from reductions in inventory due... Amount of loss from reductions in inventory due... Amount of loss from reductions in inventory due...",
+                "concept": "InventoryWriteDown"
+            },
+            {
+                "value": 2000000,
+                "unit": "USD",
+                "info": "Proceeds from sale of short-term investments",
+                "label": "The cash inflow from sales of all investments, ... The cash inflow from sales of all investments, ... The cash inflow from sales of all investments, ...",
+                "concept": "ProceedsFromSaleOfShortTermInvestments"
+            },
+            {
+                "value": 102000000,
+                "unit": "USD",
+                "info": "Purchases of property and equipment, accrued bu...",
+                "label": "Future cash outflow to pay for purchases of fix... Future cash outflow to pay for purchases of fix... Future cash outflow to pay for purchases of fix...",
+                "concept": "CapitalExpendituresIncurredButNotYetPaid"
+            },
+            {
+                "value": 87000000,
+                "unit": "USD",
+                "info": "Income taxes, net of refunds",
+                "label": "The amount of cash paid during the current peri... Amount, after refund, of cash paid to foreign, ... Amount, after refund, of cash paid to foreign, ...",
+                "concept": "IncomeTaxesPaidNet"
+            },
+            {
+                "value": 237000000,
+                "unit": "USD",
+                "info": "Prepaid expenses and current assets",
+                "label": "Amount of increase (decrease) in prepaid expens... Amount of increase (decrease) in prepaid expens... Amount of increase (decrease) in prepaid expens...",
+                "concept": "IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets"
+            },
+            {
+                "value": -1000000,
+                "unit": "USD",
+                "info": "Other",
+                "label": "Amount of cash (inflow) outflow from investing ... Amount of cash (inflow) outflow from investing ... Amount of cash (inflow) outflow from investing ...",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities"
+            },
+            {
+                "value": 0,
+                "unit": "USD",
+                "info": "Other",
+                "label": "Amount of cash (inflow) outflow from investing ... Amount of cash (inflow) outflow from investing ... Amount of cash (inflow) outflow from investing ...",
+                "concept": "PaymentsForProceedsFromOtherInvestingActivities"
+            },
+            {
+                "value": 142000000,
+                "unit": "USD",
+                "info": "Purchases of property and equipment",
+                "label": "The cash outflow associated with the acquisitio... The cash outflow associated with the acquisitio... The cash outflow associated with the acquisitio...",
+                "concept": "PaymentsToAcquirePropertyPlantAndEquipment"
+            },
+            {
+                "value": 304000000,
+                "unit": "USD",
+                "info": "Purchases of short-term investments",
+                "label": "The cash outflow for securities or other assets... The cash outflow for securities or other assets... The cash outflow for securities or other assets...",
+                "concept": "PaymentsToAcquireShortTermInvestments"
+            },
+            {
+                "value": 371000000,
+                "unit": "USD",
+                "info": "Stock-based compensation",
+                "label": "Amount of noncash expense for share-based payme... Amount of noncash expense for share-based payme... Amount of noncash expense for share-based payme...",
+                "concept": "ShareBasedCompensation"
+            }
+        ],
+        "bs": [
+            {
+                "value": 2206000000,
+                "unit": "USD",
+                "info": "Accounts payable",
+                "label": "Carrying value as of the balance sheet date of ... Carrying value as of the balance sheet date of ... Carrying value as of the balance sheet date of ...",
+                "concept": "AccountsPayableCurrent"
+            },
+            {
+                "value": 21595000000,
+                "unit": "USD",
+                "info": "Total current assets",
+                "label": "Amount of asset recognized for present right to... Sum of the carrying amounts as of the balance s... Amount of asset recognized for present right to...",
+                "concept": "AssetsCurrent"
+            },
+            {
+                "value": 1681000000,
+                "unit": "shares",
+                "info": "Common stock, issued (in shares)",
+                "label": "Total number of common shares of an entity that... Total number of common shares of an entity that... Total number of common shares of an entity that...",
+                "concept": "CommonStockSharesIssued"
+            },
+            {
+                "value": 688000000,
+                "unit": "USD",
+                "info": "Deferred tax assets",
+                "label": "Amount, after allocation of valuation allowance... Amount, after allocation of valuation allowance... Amount, after allocation of valuation allowance...",
+                "concept": "DeferredIncomeTaxAssetsNet"
+            },
+            {
+                "value": 18930000000,
+                "unit": "USD",
+                "info": "Acquisition-related intangibles, net",
+                "label": "Sum of the carrying amounts of all intangible a... Sum of the carrying amounts of all intangible a... Sum of the carrying amounts of all intangible a...",
+                "concept": "IntangibleAssetsNetExcludingGoodwill"
+            },
+            {
+                "value": 5734000000,
+                "unit": "USD",
+                "info": "Inventories",
+                "label": "Amount after valuation and LIFO reserves of inv... Amount after valuation and LIFO reserves of inv... Amount after valuation and LIFO reserves of inv...",
+                "concept": "InventoryNet"
+            },
+            {
+                "value": 3217000000,
+                "unit": "USD",
+                "info": "Long-term debt",
+                "label": "Amount, after deduction of unamortized premium ... Amount, after deduction of unamortized premium ... Amount, after deduction of unamortized premium ...",
+                "concept": "LongTermDebtNoncurrent"
+            },
+            {
+                "value": 3987000000,
+                "unit": "USD",
+                "info": "Other non-current assets",
+                "label": "Amount of noncurrent assets classified as other. Amount of noncurrent assets classified as other. Amount of noncurrent assets classified as other.",
+                "concept": "OtherAssetsNoncurrent"
+            },
+            {
+                "value": 1816000000,
+                "unit": "USD",
+                "info": "Other long-term liabilities",
+                "label": "Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ...",
+                "concept": "OtherLiabilitiesNoncurrent"
+            },
+            {
+                "value": 58000000,
+                "unit": "shares",
+                "info": "Treasury Stock, Common, Shares",
+                "label": "Number of previously issued common shares repur... Number of previously issued common shares repur... Number of previously issued common shares repur...",
+                "concept": "TreasuryStockCommonShares"
+            },
+            {
+                "value": 5443000000,
+                "unit": "USD",
+                "info": "Accounts receivable, net",
+                "label": "Amount, after allowance for credit loss, of rig... Amount, after allowance for credit loss, of rig... Amount, after allowance for credit loss, of rig...",
+                "concept": "AccountsReceivableNetCurrent"
+            },
+            {
+                "value": 3876000000,
+                "unit": "USD",
+                "info": "Accrued liabilities",
+                "label": "Carrying value as of the balance sheet date of ... Carrying value as of the balance sheet date of ... Carrying value as of the balance sheet date of ...",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent"
+            },
+            {
+                "value": 1680000000,
+                "unit": "shares",
+                "info": "Common stock, issued (in shares)",
+                "label": "Total number of common shares of an entity that... Total number of common shares of an entity that... Total number of common shares of an entity that...",
+                "concept": "CommonStockSharesIssued"
+            },
+            {
+                "value": 1622000000,
+                "unit": "shares",
+                "info": "Common stock, issued (in shares)",
+                "label": "Total number of common shares of an entity that... Total number of common shares of an entity that... Total number of common shares of an entity that...",
+                "concept": "CommonStockSharesIssued"
+            },
+            {
+                "value": 18363000000,
+                "unit": "USD",
+                "info": "Acquisition-related intangibles, net",
+                "label": "Sum of the carrying amounts of all intangible a... Sum of the carrying amounts of all intangible a... Sum of the carrying amounts of all intangible a...",
+                "concept": "IntangibleAssetsNetExcludingGoodwill"
+            },
+            {
+                "value": 3073000000,
+                "unit": "USD",
+                "info": "Retained earnings",
+                "label": "Amount of accumulated undistributed earnings (d... Amount of accumulated undistributed earnings (d... Amount of accumulated undistributed earnings (d...",
+                "concept": "RetainedEarningsAccumulatedDeficit"
+            },
+            {
+                "value": 61362000000,
+                "unit": "USD",
+                "info": "Additional paid-in capital",
+                "label": "Value received from shareholders in common stoc... Value received from shareholders in common stoc... Value received from shareholders in common stoc...",
+                "concept": "AdditionalPaidInCapitalCommonStock"
+            },
+            {
+                "value": 71550000000,
+                "unit": "USD",
+                "info": "Total assets",
+                "label": "The amount of a present economic resource contr... Amount of asset recognized for present right to... The amount of a present economic resource contr... Sum of the carrying amounts as of the balance s... Amount of asset recognized for present right to...",
+                "concept": "Assets"
+            },
+            {
+                "value": 17000000,
+                "unit": "USD",
+                "info": "Common stock, par value $0.01; shares authorize...",
+                "label": "Aggregate par or stated value of issued nonrede... Aggregate par or stated value of issued nonrede... Aggregate par or stated value of issued nonrede...",
+                "concept": "CommonStockValue"
+            },
+            {
+                "value": 476000000,
+                "unit": "USD",
+                "info": "Other current liabilities",
+                "label": "Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ...",
+                "concept": "OtherLiabilitiesCurrent"
+            },
+            {
+                "value": 1839000000,
+                "unit": "USD",
+                "info": "Other long-term liabilities",
+                "label": "Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ...",
+                "concept": "OtherLiabilitiesNoncurrent"
+            },
+            {
+                "value": 1802000000,
+                "unit": "USD",
+                "info": "Property and equipment, net",
+                "label": "Amount after accumulated depreciation, depletio... Amount after accumulated depreciation, depletio... Amount after accumulated depreciation, depletio...",
+                "concept": "PropertyPlantAndEquipmentNet"
+            },
+            {
+                "value": 0,
+                "unit": "USD",
+                "info": "Short-term borrowings",
+                "label": "Reflects the total carrying amount as of the ba... Reflects the total carrying amount as of the ba... Reflects the total carrying amount as of the ba...",
+                "concept": "ShortTermBorrowings"
+            },
+            {
+                "value": 1261000000,
+                "unit": "USD",
+                "info": "Short-term investments",
+                "label": "Amount of investments including trading securit... Amount of investments including trading securit... Amount of investments including trading securit...",
+                "concept": "ShortTermInvestments"
+            },
+            {
+                "value": 65000000,
+                "unit": "shares",
+                "info": "Treasury Stock, Common, Shares",
+                "label": "Number of previously issued common shares repur... Number of previously issued common shares repur... Number of previously issued common shares repur...",
+                "concept": "TreasuryStockCommonShares"
+            },
+            {
+                "value": 4260000000,
+                "unit": "USD",
+                "info": "Accrued liabilities",
+                "label": "Carrying value as of the balance sheet date of ... Carrying value as of the balance sheet date of ... Carrying value as of the balance sheet date of ...",
+                "concept": "AccruedLiabilitiesCurrentAndNoncurrent"
+            },
+            {
+                "value": -69000000,
+                "unit": "USD",
+                "info": "Accumulated other comprehensive loss",
+                "label": "Amount, after tax, of accumulated increase (dec... Amount, after tax, of accumulated increase (dec... Amount, after tax, of accumulated increase (dec...",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax"
+            },
+            {
+                "value": 1618000000,
+                "unit": "shares",
+                "info": "Common stock, issued (in shares)",
+                "label": "Total number of common shares of an entity that... Total number of common shares of an entity that... Total number of common shares of an entity that...",
+                "concept": "CommonStockSharesIssued"
+            },
+            {
+                "value": 845000000,
+                "unit": "USD",
+                "info": "Deferred tax assets",
+                "label": "Amount, after allocation of valuation allowance... Amount, after allocation of valuation allowance... Amount, after allocation of valuation allowance...",
+                "concept": "DeferredIncomeTaxAssetsNet"
+            },
+            {
+                "value": 24839000000,
+                "unit": "USD",
+                "info": "Goodwill",
+                "label": "The amount of assets representing the future ec... Amount after accumulated impairment loss of an ... The amount of assets representing the future ec... Amount, after accumulated impairment loss, of a... Amount, after accumulated impairment loss, of a...",
+                "concept": "Goodwill"
+            },
+            {
+                "value": 6416000000,
+                "unit": "USD",
+                "info": "Inventories",
+                "label": "Amount after valuation and LIFO reserves of inv... Amount after valuation and LIFO reserves of inv... Amount after valuation and LIFO reserves of inv...",
+                "concept": "InventoryNet"
+            },
+            {
+                "value": 69226000000,
+                "unit": "USD",
+                "info": "Total liabilities and stockholders equity",
+                "label": "Amount of liabilities and equity items, includi... Amount of liabilities and equity items, includi... Amount of liabilities and equity items, includi...",
+                "concept": "LiabilitiesAndStockholdersEquity"
+            },
+            {
+                "value": 7703000000,
+                "unit": "USD",
+                "info": "Total current liabilities",
+                "label": "Total obligations incurred as part of normal op... Total obligations incurred as part of normal op... Total obligations incurred as part of normal op...",
+                "concept": "LiabilitiesCurrent"
+            },
+            {
+                "value": 674000000,
+                "unit": "USD",
+                "info": "Other current liabilities",
+                "label": "Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ...",
+                "concept": "OtherLiabilitiesCurrent"
+            },
+            {
+                "value": 6192000000,
+                "unit": "USD",
+                "info": "Accounts receivable, net",
+                "label": "Amount, after allowance for credit loss, of rig... Amount, after allowance for credit loss, of rig... Amount, after allowance for credit loss, of rig...",
+                "concept": "AccountsReceivableNetCurrent"
+            },
+            {
+                "value": 19049000000,
+                "unit": "USD",
+                "info": "Total current assets",
+                "label": "Amount of asset recognized for present right to... Sum of the carrying amounts as of the balance s... Amount of asset recognized for present right to...",
+                "concept": "AssetsCurrent"
+            },
+            {
+                "value": 6049000000,
+                "unit": "USD",
+                "info": "Cash and cash equivalents",
+                "label": "Amount of cash and cash equivalent. Cash includ... Amount of currency on hand as well as demand de... Amount of currency on hand as well as demand de...",
+                "concept": "CashAndCashEquivalentsAtCarryingValue"
+            },
+            {
+                "value": 2250000000,
+                "unit": "shares",
+                "info": "Common stock, authorized (in shares)",
+                "label": "The maximum number of common shares permitted t... The maximum number of common shares permitted t... The maximum number of common shares permitted t...",
+                "concept": "CommonStockSharesAuthorized"
+            },
+            {
+                "value": 343000000,
+                "unit": "USD",
+                "info": "Deferred tax liabilities",
+                "label": "Amount, after deferred tax asset, of deferred t... Amount, after deferred tax asset, of deferred t... Amount, after deferred tax asset, of deferred t...",
+                "concept": "DeferredIncomeTaxLiabilitiesNet"
+            },
+            {
+                "value": 71550000000,
+                "unit": "USD",
+                "info": "Total liabilities and stockholders equity",
+                "label": "Amount of liabilities and equity items, includi... Amount of liabilities and equity items, includi... Amount of liabilities and equity items, includi...",
+                "concept": "LiabilitiesAndStockholdersEquity"
+            },
+            {
+                "value": 2426000000,
+                "unit": "USD",
+                "info": "Prepaid expenses and other current assets",
+                "label": "Amount of asset related to consideration paid i... Amount of asset related to consideration paid i... Amount of asset related to consideration paid i...",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent"
+            },
+            {
+                "value": 2364000000,
+                "unit": "USD",
+                "info": "Retained earnings",
+                "label": "Amount of accumulated undistributed earnings (d... Amount of accumulated undistributed earnings (d... Amount of accumulated undistributed earnings (d...",
+                "concept": "RetainedEarningsAccumulatedDeficit"
+            },
+            {
+                "value": 947000000,
+                "unit": "USD",
+                "info": "Short-term borrowings",
+                "label": "Reflects the total carrying amount as of the ba... Reflects the total carrying amount as of the ba... Reflects the total carrying amount as of the ba...",
+                "concept": "ShortTermBorrowings"
+            },
+            {
+                "value": 2466000000,
+                "unit": "USD",
+                "info": "Accounts payable",
+                "label": "Carrying value as of the balance sheet date of ... Carrying value as of the balance sheet date of ... Carrying value as of the balance sheet date of ...",
+                "concept": "AccountsPayableCurrent"
+            },
+            {
+                "value": 3787000000,
+                "unit": "USD",
+                "info": "Cash and cash equivalents",
+                "label": "Amount of cash and cash equivalent. Cash includ... Amount of currency on hand as well as demand de... Amount of currency on hand as well as demand de...",
+                "concept": "CashAndCashEquivalentsAtCarryingValue"
+            },
+            {
+                "value": 24839000000,
+                "unit": "USD",
+                "info": "Goodwill",
+                "label": "The amount of assets representing the future ec... Amount after accumulated impairment loss of an ... The amount of assets representing the future ec... Amount, after accumulated impairment loss, of a... Amount, after accumulated impairment loss, of a...",
+                "concept": "Goodwill"
+            },
+            {
+                "value": 7281000000,
+                "unit": "USD",
+                "info": "Total current liabilities",
+                "label": "Total obligations incurred as part of normal op... Total obligations incurred as part of normal op... Total obligations incurred as part of normal op...",
+                "concept": "LiabilitiesCurrent"
+            },
+            {
+                "value": 491000000,
+                "unit": "USD",
+                "info": "Long-term operating lease liabilities",
+                "label": "Present value of lessee's discounted obligation... Present value of lessee's discounted obligation... Present value of lessee's discounted obligation...",
+                "concept": "OperatingLeaseLiabilityNoncurrent"
+            },
+            {
+                "value": 3918000000,
+                "unit": "USD",
+                "info": "Other non-current assets",
+                "label": "Amount of noncurrent assets classified as other. Amount of noncurrent assets classified as other. Amount of noncurrent assets classified as other.",
+                "concept": "OtherAssetsNoncurrent"
+            },
+            {
+                "value": 434000000,
+                "unit": "USD",
+                "info": "Other current liabilities",
+                "label": "Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ...",
+                "concept": "OtherLiabilitiesCurrent"
+            },
+            {
+                "value": 61730000000,
+                "unit": "USD",
+                "info": "Additional paid-in capital",
+                "label": "Value received from shareholders in common stoc... Value received from shareholders in common stoc... Value received from shareholders in common stoc...",
+                "concept": "AdditionalPaidInCapitalCommonStock"
+            },
+            {
+                "value": 69226000000,
+                "unit": "USD",
+                "info": "Total assets",
+                "label": "The amount of a present economic resource contr... Amount of asset recognized for present right to... The amount of a present economic resource contr... Sum of the carrying amounts as of the balance s... Amount of asset recognized for present right to...",
+                "concept": "Assets"
+            },
+            {
+                "value": 0,
+                "unit": "USD",
+                "info": "Common stock, par value (in dollars per share)",
+                "label": "Face amount or stated value per share of common... Face amount or stated value per share of common... Face amount or stated value per share of common...",
+                "concept": "CommonStockParOrStatedValuePerShare"
+            },
+            {
+                "value": 1616000000,
+                "unit": "shares",
+                "info": "Common stock, issued (in shares)",
+                "label": "Total number of common shares of an entity that... Total number of common shares of an entity that... Total number of common shares of an entity that...",
+                "concept": "CommonStockSharesIssued"
+            },
+            {
+                "value": 1616000000,
+                "unit": "shares",
+                "info": "Common stock, issued (in shares)",
+                "label": "Total number of common shares of an entity that... Total number of common shares of an entity that... Total number of common shares of an entity that...",
+                "concept": "CommonStockSharesIssued"
+            },
+            {
+                "value": 1616000000,
+                "unit": "shares",
+                "info": "Common stock, outstanding (in shares)",
+                "label": "Number of shares of common stock outstanding. C... Number of shares of common stock outstanding. C... Number of shares of common stock outstanding. C...",
+                "concept": "CommonStockSharesOutstanding"
+            },
+            {
+                "value": 555000000,
+                "unit": "USD",
+                "info": "Other current liabilities",
+                "label": "Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ... Amount of liabilities classified as other, due ...",
+                "concept": "OtherLiabilitiesCurrent"
+            },
+            {
+                "value": 1921000000,
+                "unit": "USD",
+                "info": "Property and equipment, net",
+                "label": "Amount after accumulated depreciation, depletio... Amount after accumulated depreciation, depletio... Amount after accumulated depreciation, depletio...",
+                "concept": "PropertyPlantAndEquipmentNet"
+            },
+            {
+                "value": -40000000,
+                "unit": "USD",
+                "info": "Accumulated other comprehensive loss",
+                "label": "Amount, after tax, of accumulated increase (dec... Amount, after tax, of accumulated increase (dec... Amount, after tax, of accumulated increase (dec...",
+                "concept": "AccumulatedOtherComprehensiveIncomeLossNetOfTax"
+            },
+            {
+                "value": 1622000000,
+                "unit": "shares",
+                "info": "Common stock, outstanding (in shares)",
+                "label": "Number of shares of common stock outstanding. C... Number of shares of common stock outstanding. C... Number of shares of common stock outstanding. C...",
+                "concept": "CommonStockSharesOutstanding"
+            },
+            {
+                "value": 17000000,
+                "unit": "USD",
+                "info": "Common stock, par value $0.01; shares authorize...",
+                "label": "Aggregate par or stated value of issued nonrede... Aggregate par or stated value of issued nonrede... Aggregate par or stated value of issued nonrede...",
+                "concept": "CommonStockValue"
+            },
+            {
+                "value": 349000000,
+                "unit": "USD",
+                "info": "Deferred tax liabilities",
+                "label": "Amount, after deferred tax asset, of deferred t... Amount, after deferred tax asset, of deferred t... Amount, after deferred tax asset, of deferred t...",
+                "concept": "DeferredIncomeTaxLiabilitiesNet"
+            },
+            {
+                "value": 1721000000,
+                "unit": "USD",
+                "info": "Long-term debt",
+                "label": "Amount, after deduction of unamortized premium ... Amount, after deduction of unamortized premium ... Amount, after deduction of unamortized premium ...",
+                "concept": "LongTermDebtNoncurrent"
+            },
+            {
+                "value": 567000000,
+                "unit": "USD",
+                "info": "Long-term operating lease liabilities",
+                "label": "Present value of lessee's discounted obligation... Present value of lessee's discounted obligation... Present value of lessee's discounted obligation...",
+                "concept": "OperatingLeaseLiabilityNoncurrent"
+            },
+            {
+                "value": 1991000000,
+                "unit": "USD",
+                "info": "Prepaid expenses and other current assets",
+                "label": "Amount of asset related to consideration paid i... Amount of asset related to consideration paid i... Amount of asset related to consideration paid i...",
+                "concept": "PrepaidExpenseAndOtherAssetsCurrent"
+            },
+            {
+                "value": 1345000000,
+                "unit": "USD",
+                "info": "Short-term investments",
+                "label": "Amount of investments including trading securit... Amount of investments including trading securit... Amount of investments including trading securit...",
+                "concept": "ShortTermInvestments"
+            },
+            {
+                "value": 6106000000,
+                "unit": "USD",
+                "info": "Treasury stock, at cost (shares held: 65 and 58)",
+                "label": "The amount allocated to treasury stock. Treasur... The amount allocated to treasury stock. Treasur... The amount allocated to treasury stock. Treasur...",
+                "concept": "TreasuryStockValue"
+            },
+            {
+                "value": 6899000000,
+                "unit": "USD",
+                "info": "Treasury stock, at cost (shares held: 65 and 58)",
+                "label": "The amount allocated to treasury stock. Treasur... The amount allocated to treasury stock. Treasur... The amount allocated to treasury stock. Treasur...",
+                "concept": "TreasuryStockValue"
+            }
+        ],
+        "ic": []
+    },
+    "startDate": "2025-03-31",
+    "country": "US",
+    "name": "ADVANCED MICRO DEVICES INC"
+}
