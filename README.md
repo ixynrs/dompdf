@@ -9,6 +9,12 @@ A Laravel 12 application that generates financial reports as PDFs using [barryvd
 | **AMD Q1 Financial Report**                    | Balance-sheet (`amd-q1.json`) | [kaggle.com](https://www.kaggle.com/datasets/wbqrmgmcia7lhhq/sec-financial-statement-data-in-json?resource=download)     |
 | **Statement of Receipts & Expenditures (SRE)** | Financial statement (`blgf-sre.json`)    | [blgf.gov.ph](https://blgf.gov.ph) |
 
+## Outputs
+
+[![AMD Report Preview](assets/amd-preview.png)](assets/Q1-2025-MAR-JUN-AMD.pdf)
+
+[![Manila SRE Preview](assets/manila-sre-preview.png)](assets/SRE-Manila-City-Q1-2025.pdf)
+
 ## Tech Stack
 
 - **PHP** ^8.2

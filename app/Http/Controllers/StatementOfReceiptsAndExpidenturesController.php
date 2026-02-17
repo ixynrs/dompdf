@@ -33,7 +33,7 @@ class StatementOfReceiptsAndExpidenturesController extends Controller
             'lgu' => 'Manila City',
             'period' => 'Q1, 2025',
         ])
-            ->setPaper('legal', 'portrait')
+            ->setPaper('a4', 'portrait')
             ->stream('SRE-Manila-City-Q1-2025.pdf');
     }
 
@@ -62,7 +62,7 @@ class StatementOfReceiptsAndExpidenturesController extends Controller
             'lgu' => 'Manila City',
             'period' => 'Q1, 2025',
         ])
-            ->setPaper('legal', 'portrait')
+            ->setPaper('a4', 'portrait')
             ->download('SRE-Manila-City-Q1-2025.pdf');
     }
 }
