@@ -10,10 +10,10 @@
         }
 
         body {
-            font-family: DejaVu Sans, sans-serif;
+            font-family: Roboto;
             color: #000;
-            font-size: 8px;
-            line-height: 1.2;
+            font-size: 11px;
+            line-height: 1.3;
             margin: 0;
             padding: 0;
         }
@@ -25,13 +25,14 @@
 
         .header-block p {
             margin: 0;
-            font-size: 8px;
+            font-size: 11px;
         }
 
         .report-title {
             text-align: center;
-            font-size: 10px;
-            margin: 10px 0 10px 0;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 12px 0 12px 0;
         }
 
         /* ---- Meta (LGU / Period) ---- */
@@ -41,8 +42,8 @@
 
         .meta-table td {
             border: none;
-            padding: 1px 4px;
-            font-size: 8px;
+            padding: 2px 4px;
+            font-size: 11px;
         }
 
         /* ---- Data table ---- */
@@ -50,13 +51,13 @@
             width: 100%;
             border-collapse: collapse;
             table-layout: fixed;
-            font-size: 7px;
+            font-size: 10px;
         }
 
         .sre-table th,
         .sre-table td {
             border: 1px solid #000;
-            padding: 2px 4px;
+            padding: 3px 5px;
             vertical-align: middle;
             word-wrap: break-word;
         }
@@ -104,18 +105,18 @@
         }
 
         .sig-label {
-            font-size: 8px;
-            margin-bottom: 15px;
+            font-size: 11px;
+            margin-bottom: 18px;
         }
 
         .sig-name {
-            font-size: 9px;
+            font-size: 12px;
             font-weight: bold;
-            margin-bottom: 1px;
+            margin-bottom: 2px;
         }
 
         .sig-title {
-            font-size: 8px;
+            font-size: 11px;
             font-weight: bold;
             margin-bottom: 0;
         }
@@ -127,7 +128,7 @@
         }
 
         .sig-office {
-            font-size: 8px;
+            font-size: 11px;
             padding-top: 3px;
             margin: 0;
         }
@@ -193,15 +194,15 @@
                 @endphp
                 <tr @if ($isSub) class="indent" @endif>
                     <td>{{ $row['particulars'] }}</td>
-                    <td class="col-amount" style="{{ $isCategory || $isTotal }}">
+                    <td class="col-amount">
                         {{ $row['income_target_budget_appropriation'] ?? '' }}</td>
-                    <td class="col-amount" style="{{ $isCategory || $isTotal }}">
+                    <td class="col-amount">
                         {{ $row['general_fund'] ?? '' }}</td>
-                    <td class="col-amount" style="{{ $isCategory || $isTotal }}">
+                    <td class="col-amount">
                         {{ $row['sef'] ?? '' }}</td>
-                    <td class="col-amount" style="{{ $isCategory || $isTotal }}">
+                    <td class="col-amount">
                         {{ $row['total'] ?? '' }}</td>
-                    <td class="col-percent" style="{{ $isCategory || $isTotal }}">
+                    <td class="col-percent">
                         {{ $row['percent_to_total_income'] ?? '' }}</td>
                 </tr>
             @endforeach
